@@ -1,3 +1,1 @@
-print("Akshay Thigale")
-
-print("Hello World")
+import ExceptionHandling
