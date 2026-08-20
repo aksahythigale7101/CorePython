@@ -21,7 +21,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AcessModifier.py" />
+    <Compile Include="Argument.py" />
+    <Compile Include="AsynAwait.py" />
     <Compile Include="CorePython.py" />
+    <Compile Include="CSVFile.py" />
+    <Compile Include="EventThred.py" />
+    <Compile Include="ExceptionHandling.py" />
+    <Compile Include="GenertorItertor.py" />
+    <Compile Include="JasonRW.py" />
+    <Compile Include="SteamWriter.py" />
+    <Compile Include="ThredConcept.py" />
+    <Compile Include="ThredDeadLock.py" />
+    <Compile Include="ThredLock.py" />
+    <Compile Include="ThredPool.py" />
+    <Compile Include="ThredSamphore.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
