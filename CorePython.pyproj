@@ -24,12 +24,17 @@
     <Compile Include="AcessModifier.py" />
     <Compile Include="Argument.py" />
     <Compile Include="AsynAwait.py" />
+    <Compile Include="ClassAndObject.py" />
     <Compile Include="CorePython.py" />
     <Compile Include="CSVFile.py" />
+    <Compile Include="Encapsulations.py" />
     <Compile Include="EventThred.py" />
     <Compile Include="ExceptionHandling.py" />
     <Compile Include="GenertorItertor.py" />
+    <Compile Include="Inheritance.py" />
     <Compile Include="JasonRW.py" />
+    <Compile Include="MagicalMro.py" />
+    <Compile Include="Polymorphisam.py" />
     <Compile Include="SteamWriter.py" />
     <Compile Include="ThredConcept.py" />
     <Compile Include="ThredDeadLock.py" />
