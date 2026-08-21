@@ -13,8 +13,10 @@
 #import ThredDeadLock
 #import AsynAwait
 
-import  ClassAndObject
-import Encapsulations
-import  Inheritance
-import Polymorphisam
+# import  ClassAndObject
+# import Encapsulations
+# import  Inheritance
+# import Polymorphisam
 import MagicalMro
+
+print("Core Python")
